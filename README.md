@@ -13,7 +13,7 @@
 Важно: они не должны принимать никаких аргументов".
 
 Ссылка на решение [Задачи 1](https://autotest.gb.ru/problems/12?lesson_id=357184&_ga=2.77822484.1675109119.1695872985-1008606880.1695872984) в автотесте.
-Код программы первой задачи размещен [здесь](https://github.com/ArturGert/gbExceptionsHomeWork/tree/master/homeWork_1/task1).
+Код программы первой задачи размещен [здесь](https://github.com/ArturGert/gbExceptionsHomeWork/blob/master/homeWork_1/task1/Printer.java).
 ---
 * Задача 2:
 "Реализуйте метод subArrays, принимающий в качестве аргументов два целочисленных массива a и b, и возвращающий новый массив c, каждый элемент которого равен разности элементов двух входящих массивов в той же ячейке.
@@ -23,7 +23,7 @@ int[] a - первый массив;
 int[] b - второй массив. "
 
 Ссылка на решение [Задачи 2](https://autotest.gb.ru/problems/7?lesson_id=357184&_ga=2.74480914.1675109119.1695872985-1008606880.1695872984) в автотесте.
-Код программы второй задачи размещен [здесь](https://github.com/ArturGert/gbExceptionsHomeWork/tree/master/homeWork_1/task2).
+Код программы второй задачи размещен [здесь](https://github.com/ArturGert/gbExceptionsHomeWork/blob/master/homeWork_1/task2/Printer.java).
 ---
 * Задача 3: 
 "Реализуйте метод divArrays, принимающий в качестве аргументов два целочисленных массива a и b, и возвращающий новый массив с, каждый элемент которого равен частному элементов двух входящих массивов в той же ячейке.
@@ -34,5 +34,5 @@ int[] a - первый массив;
 int[] b - второй массив". 
 
 Ссылка на решение [Задачи 3](https://autotest.gb.ru/problems/8?lesson_id=357184&_ga=2.41637282.1675109119.1695872985-1008606880.1695872984) в автотесте.
-Код программы задачи 3 размещен [здесь](https://github.com/ArturGert/gbExceptionsHomeWork/tree/master/homeWork_1/task3).
+Код программы задачи 3 размещен [здесь](https://github.com/ArturGert/gbExceptionsHomeWork/blob/master/homeWork_1/task3/Printer.java).
 ---
