@@ -36,3 +36,25 @@ int[] b - второй массив".
 Ссылка на решение [Задачи 3](https://autotest.gb.ru/problems/8?lesson_id=357184&_ga=2.41637282.1675109119.1695872985-1008606880.1695872984) в автотесте.
 Код программы задачи 3 размещен [здесь](https://github.com/ArturGert/gbExceptionsHomeWork/blob/master/homeWork_1/task3/Printer.java).
 ---
+### *Домашнее задание* 2:
+---
+* Задание 1:
+Необходимо реализовать метод, который запрашивает у пользователя ввод дробного числа (типа float), и возвращает введенное значение. Ввод текста вместо числа не должно приводить к падению приложения, вместо этого, необходимо повторно запросить у пользователя ввод данных.
+
+Решение задания реализовано в классе [Task1](https://github.com/ArturGert/gbExceptionsHomeWork/blob/master/homeWork_2/Task1.java).
+---
+* Задание 2:
+Предлагается проверить и, в случае необходимости, исправить следующий [код](https://docs.google.com/document/d/17EaA1lDxzD5YigQ5OAal60fOFKVoCbEJqooB9XfhT7w/edit)
+
+Решение задания 2 с исправленным кодом реализовано в классе  [Task2](https://github.com/ArturGert/gbExceptionsHomeWork/blob/master/homeWork_2/Task2.java). Все изменения исходного кода отражены в комментариях
+---
+* Задание 3: 
+Необходимо исправить предложенный [код](https://docs.google.com/document/d/17EaA1lDxzD5YigQ5OAal60fOFKVoCbEJqooB9XfhT7w/edit)
+
+Решение задания 3 с исправленным кодом реализовано в классе  [Task3](https://github.com/ArturGert/gbExceptionsHomeWork/blob/master/homeWork_2/Task3.java). Все изменения исходного кода отражены в комментариях
+
+* Задание 4:
+Требуется разработать программу,  которая выбросит Exception, когда пользователь вводит пустую строку. Пользователю должно показаться сообщение, что пустые строки вводить нельзя.
+
+Разработанная в рамках решения задания 4 программа размещене в пакете [Task4](https://github.com/ArturGert/gbExceptionsHomeWork/tree/master/homeWork_2/Task4). 
+
