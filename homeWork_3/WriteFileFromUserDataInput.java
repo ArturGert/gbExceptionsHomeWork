@@ -66,16 +66,17 @@ public class WriteFileFromUserDataInput {
             }
         } return userData;
     }
-// метод записывающий файл введенным данным
+// метод записывающий файл по введенным данным
     public static void getFile(String[] userData) throws EmptyInputException {
-        String fileName = userData[0] + ".txt";
+        String fileName = userData[0] + ".txt"; // имя файла
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName, true))) { // создание объекта BufferedWriter с использованием try с ресурсами (try-with-resources)
-            writer.write(String.join(" ", userData));
-            writer.newLine();
+            writer.write(String.join(" ", userData)); // запись данных
+            writer.newLine(); // переход на новую строку
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
+    // Основной метод
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)){
             String[] userData = getUserData(scanner);
